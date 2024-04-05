@@ -8,6 +8,7 @@ Heart Disease Prediction Using Machine Learning
 3. V.Sowmya Sree
 
 ###INTRODUCTION
+
 Heart disease is the most deadly disease in the world. Yet it is typically detected too late in life due to incorrect detection practices. 
 Early Prevention Using patient data to develop accurate risk prediction models using a collection of medical records, which serves as the basis for a heart disease prediction model.
 Predicting heart disease involves the sample analysis, blood testing, and image processing are some of the processes used to predict cardiac disease. 
